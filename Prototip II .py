@@ -29,8 +29,6 @@ def run(playwright) -> None:
             print(f"Login unsuccessful with password: {password}")
             # Clear password field
             page.fill("input[name='password']", "")
-
-    # Close browser context and browser
     context.close()
     browser.close()
 
