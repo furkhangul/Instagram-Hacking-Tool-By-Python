@@ -1,3 +1,5 @@
+KURULUM
+-----------------------------------------------
 [ * ] Öncelikle söylememe gerek var mı bilmiyorum ama yüklü değilse Pythonun kendi sitesi üzerinden (https://www.python.org/downloads/) Python paketini indirmemiz gerekiyor. İndirme işlemi zahmetli değil
 en güncel sürümüne basıp (ki muhtemelen sitenin header kısmında sarı buton olarak duruyor olacaktır) indirmeniz ve indirdiğiniz dosyayı çalıştırıp setup kısmını bitirmeniz bu program ile işimizi bitirecektir. 
 (Ayrıca söylememem gereken bi husus ise setup kısmında pip ile alakalı kutucuklara tik atmamız gerekiyor)
