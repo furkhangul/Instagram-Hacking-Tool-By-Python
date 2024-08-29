@@ -14,6 +14,7 @@ terminali sayılır. Buraya kodlarımızı girerek kütüphaneleri indireceğiz.
 - pip install tk
 - pip install playwright(en önemli)
 - pip install chromium (Chrom eklentisi olarak bilinebilir)
+- playwright install ( ek olarak )
 
 
 Lütfen bir indirme bitemden diğer bi indirmeye geçmeyelim çünkü kütüphaneler tam olarak indirilmediği zaman program tam işlevli çalışamayabilir.
