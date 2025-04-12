@@ -1,6 +1,7 @@
 #Bu prototip başarısızlıkla sonuçlanmıştır...
 #FurOfTheWeak | Furkan Gül
 
+
 import selenium
 from selenium import webdriver
 from selenium.webdriver.common.by import By
